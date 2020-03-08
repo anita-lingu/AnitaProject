@@ -1,0 +1,6 @@
+Questions.
+
+1. If there are fils which are having sapes in their name 
+	ex : test NG.txt
+	how can we add and remove this file to the git.?
+2.
